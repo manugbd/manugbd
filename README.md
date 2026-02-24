@@ -38,13 +38,6 @@
 - **Docker** → contenedorización de aplicaciones y despliegue consistente en entornos de desarrollo y producción.  
 - **Sistemas y redes** → configuración, administración y comprensión de entornos conectados (TCP/IP, cortafuegos, UFW, etc.).  
 
----
-
-## 📈 Estadísticas GitHub  
-
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=manugbd&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)
-
-* _Nota: el punto anterior puede carecer de contenido debido a que todos los repositorios relacionados con el Grado universitario son actualmente privados para evitar problemas de plagio._
 
 ---
 
